@@ -12,38 +12,39 @@ Classification using Naive Bayes in Rstudio
 __________________________________________
 
 How to run Reza_Marzban_1.R:
- In order to run the code in Rstudio, Spotfire or any other R based environment, we need to install naive bayes library. To do so, enter the following command:
- install.packages("naivebayes", repos = "https://cran.rstudio.com")
+ In order to run the code in Rstudio, Spotfire or any other R based environment, we need to install naive bayes library. To do so, enter the following command:  
+ install.packages("naivebayes", repos = "https://cran.rstudio.com")  
  
- Now you can simply run the program.
+ Now you can simply run the program.  
+ 
  
  
 Sample Output (also attached as a screenshot in RstudioOutput.JPG):
-[1] "Total Data size:"
-[1] 48842
-[1] "train set size:"
-[1] 39122
-[1] "test set size:"
-[1] 9720
-[1] "---------------------------"
-[1] "train accuracy:"
-[1] 81.63437
-[1] "train error:"
-[1] 18.36563
-[1] "---------------------------"
-[1] "test accuracy:"
-[1] 81.27572
-[1] "test error:"
-[1] 18.72428
-[1] "_________________________________________"
+[1] "Total Data size:"  
+[1] 48842  
+[1] "train set size:"  
+[1] 39122  
+[1] "test set size:"  
+[1] 9720  
+[1] "---------------------------"  
+[1] "train accuracy:"  
+[1] 81.63437  
+[1] "train error:"  
+[1] 18.36563  
+[1] "---------------------------"  
+[1] "test accuracy:"  
+[1] 81.27572  
+[1] "test error:"  
+[1] 18.72428  
+[1] "_________________________________________"  
 
 3 other PNG image visualization files are attached as well:
-1- age per label, sex.png
-2- Data Summary.png
-3- label per education and capital-gain.png
+1- age per label, sex.png  
+2- Data Summary.png  
+3- label per education and capital-gain.png  
 
 These three file were created with Spotfire, and shows the relation of different attributes with our labels.
-Our labels predicts if a person can make over 50k a year or not.
+Our labels predicts if a person can make over 50k a year or not.  
 
 
 Explaination of Visualization files:
