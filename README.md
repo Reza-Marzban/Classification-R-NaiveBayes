@@ -38,7 +38,7 @@ Sample Output (also attached as a screenshot in RstudioOutput.JPG):
 [1] 18.72428  
 [1] "_________________________________________"  
 
-3 other PNG image visualization files are attached as well:
+3 other PNG image visualization files are attached as well:  
 1- age per label, sex.png  
 2- Data Summary.png  
 3- label per education and capital-gain.png  
